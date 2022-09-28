@@ -1,0 +1,23 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.right-content img{
+    float: left;
+    width: 50%;
+}
+.right-content {
+	padding: 10px;
+	box-sizing: border-box;
+}
+.left-content {
+	float: left;
+	width: 50%;
+	padding: 15px;
+	box-sizing: border-box;
+}
+.left-content a {
+	text-decoration: none;
+	background-image: linear-gradient(45deg,tomato,lightSalmon);
+	padding: 10px 40px;
+	color: white;
+}
